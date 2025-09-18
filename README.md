@@ -19,11 +19,11 @@
 ### 🖼️ Demo
 
 **Demo1 – Voice Command**  
-![Demo1](path/to/demo1.png)  
+![Demo1](Demo1.png)  
 *Lyra listening and responding to a voice command.*
 
 **Demo2 – Text Command**  
-![Demo2](path/to/demo2.png)  
+![Demo2](Demo2.png)  
 *Lyra receiving a typed command and opening YouTube.*
 
 ---
