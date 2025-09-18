@@ -26,10 +26,3 @@
 ![Demo2](Demo2.png)  
 *Lyra receiving a typed command and opening YouTube.*
 
----
-
-### 💻 How to run
-1. Clone the repo:  
-```bash
-git clone https://github.com/<your-username>/Lyra-YT-Voice-Assistant.git
-cd Lyra-YT-Voice-Assistant
